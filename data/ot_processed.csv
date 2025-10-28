@@ -1,0 +1,2 @@
+timestamp,sensor_1_temp,sensor_2_flow,drone_altitude,is_anomaly
+2025-10-13 10:00:00,0.0,0.0,0.0,0
